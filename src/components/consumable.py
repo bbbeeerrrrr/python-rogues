@@ -8,7 +8,11 @@ import components.ai
 import components.inventory
 from components.base_component import BaseComponent
 from exceptions import Impossible
-from input_handlers import AreaRangedAttackHandler, SingleRangedAttackHandler
+from input_handlers import (
+    ActionOrHandler,
+    AreaRangedAttackHandler,
+    SingleRangedAttackHandler,
+)
 
 if TYPE_CHECKING:
     from entity import Actor, Item
@@ -17,18 +21,33 @@ if TYPE_CHECKING:
 class Consumable(BaseComponent):
     parent: Item
 
-    def consume(self, consumer: Actor) -> None:
+    def get_action(self, consumer: Actor) -> Optional[ActionOrHandler]:
+        """Try to return the action for this item."""
+        return actions.ItemAction(consumer, self.parent)
+
+    def activate(self, action: actions.ItemAction) -> None:
+        """Invoke this items ability.
+
+        `action` is the context for this activation.
+        """
         raise NotImplementedError()
+
+    def consume(self) -> None:
+        """Remove the consumed item from its containing inventory."""
+        entity = self.parent
+        inventory = entity.parent
+        if isinstance(inventory, components.inventory.Inventory):
+            inventory.items.remove(entity)
 
 class ConfusionConsumable(Consumable):
     def __init__(self, number_of_turns: int):
         self.number_of_turns = number_of_turns
 
-    def get_action(self, consumer: Actor) -> Optional[actions.Action]:
+    def get_action(self, consumer: Actor) -> SingleRangedAttackHandler:
         self.engine.message_log.add_message(
             "Select a target location.", color.needs_target
         )
-        self.engine.event_handler = SingleRangedAttackHandler(
+        return SingleRangedAttackHandler(
             self.engine,
             callback=lambda xy: actions.ItemAction(consumer, self.parent, xy),
         )
@@ -54,13 +73,6 @@ class ConfusionConsumable(Consumable):
         )
         self.consume()
 
-fireball_scroll = Item(
-    char="~",
-    color=(255, 0, 0),
-    name="Fireball Scroll",
-    consumable=consumable.FireballDamageConsumable(damage=12, radius=3),
-)
-
 class HealingConsumable(Consumable):
     def __init__(self, amount: int):
         self.amount = amount
@@ -83,16 +95,15 @@ class FireballDamageConsumable(Consumable):
         self.damage = damage
         self.radius = radius
 
-    def get_action(self, consumer: Actor) -> Optional[actions.Action]:
+    def get_action(self, consumer: Actor) -> AreaRangedAttackHandler:
         self.engine.message_log.add_message(
             "Select a target location.", color.needs_target
         )
-        self.engine.event_handler = AreaRangedAttackHandler(
+        return AreaRangedAttackHandler(
             self.engine,
             radius=self.radius,
             callback=lambda xy: actions.ItemAction(consumer, self.parent, xy),
         )
-        return None
 
     def activate(self, action: actions.ItemAction) -> None:
         target_xy = action.target_xy
