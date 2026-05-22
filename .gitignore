@@ -1,0 +1,4 @@
+# Saved games
+*.sav
+__pycache__
+.vs
