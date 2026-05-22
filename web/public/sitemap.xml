@@ -5,18 +5,22 @@
     <loc>//localhost:1313/posts/</loc>
     <lastmod>2026-05-22T15:45:15+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/%D0%BF%D0%BE%D1%81%D1%82-%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0/</loc>
-    <lastmod>2026-05-22T15:45:15+03:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2026-05-22T15:45:15+03:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/posts/%D0%BF%D0%BE%D1%81%D1%82-%D0%B7%D0%B0%D0%B3%D0%BB%D1%83%D1%88%D0%BA%D0%B0/</loc>
+    <lastmod>2026-05-22T15:45:15+03:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/contributors/</loc>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
   </url><url>
     <loc>//localhost:1313/links/</loc>
   </url><url>
     <loc>//localhost:1313/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/contributors/contributors/</loc>
   </url>
 </urlset>

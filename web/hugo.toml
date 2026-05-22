@@ -19,13 +19,13 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 4
 
   # show selector to switch language
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = false
+  fullWidthTheme = true
 
   # center theme with default width
   centerTheme = true
@@ -100,13 +100,17 @@ pagination.pagerSize = 5
           name = "О проекте"
           url = "/about"
         [[languages.ru.menu.main]]
-          identifier = "contributors"
-          name = "Участники"
-          url = "/contributors"
-        [[languages.ru.menu.main]]
           identifier = "links"
           name = "Источники"
           url = "/links"
+        [[languages.ru.menu.main]]
+          identifier = "blog"
+          name = "Блог"
+          url = "/blog"
+        [[languages.ru.menu.main]]
+          identifier = "contributors"
+          name = "Участники"
+          url = "/contributors"
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
