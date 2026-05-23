@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Python-rogues</title>
-    <link>//localhost:1313/posts/</link>
-    <description>Recent content in Blog on Python-rogues</description>
+    <title>Блог on Python-rogues</title>
+    <link>//localhost:1313///python-rogues_/posts/</link>
+    <description>Recent content in Блог on Python-rogues</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
     <lastBuildDate>Fri, 22 May 2026 21:45:15 +0300</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313///python-rogues_/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Уррааа</title>
-      <link>//localhost:1313/posts/uraa/</link>
+      <link>//localhost:1313///python-rogues_/posts/uraa/</link>
       <pubDate>Fri, 22 May 2026 21:45:15 +0300</pubDate>
-      <guid>//localhost:1313/posts/uraa/</guid>
+      <guid>//localhost:1313///python-rogues_/posts/uraa/</guid>
       <description>&lt;p&gt;Серёжа всё зачинил, теперь всё делается очень удобно и красиво. Это если верить ему, сам пока не трогал.&lt;/p&gt;&#xA;&lt;p&gt;Сайт допилен, вроде. Больше всего бед почему-то возникло с тем, чтобы вытянуть блог с постами на отдельный адрес. Изначально эта страница была вшита в _index.html, и там происходили приколы с непосредственным наполнением шаблона постами. А это уже задача непосредственно Hugo. А это go. Но всё же блог у нас на /posts, значит всё отлично.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Первый опыт</title>
-      <link>//localhost:1313/posts/first_expirience/</link>
+      <link>//localhost:1313///python-rogues_/posts/first_expirience/</link>
       <pubDate>Fri, 22 May 2026 15:45:15 +0300</pubDate>
-      <guid>//localhost:1313/posts/first_expirience/</guid>
+      <guid>//localhost:1313///python-rogues_/posts/first_expirience/</guid>
       <description>&lt;img src=&#34;adachi_rei_huh.jpg&#34;  alt=&#34;Привет от Аси Шубиной&#34;  class=&#34;center&#34;  style=&#34;max-width: min(100%, 800px); height: auto;&#34;    /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;Серёжа дописал игрушку, нооо&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Чтобы её запустить, надо немного потанцевать с бубном, ибо он всё собирал из-под Visual Studio, а я хотел просто по человечески запустить через коммандную строку питоном&amp;hellip; А там программа банально background-image найти не может, и отказывается запускаться.&lt;/p&gt;&#xA;&lt;p&gt;Пришлось залезть в код и просто заменить файл картинки на пустую пустоту. Но теперь всё работает! Никогда в игры с похожей графикой не играл, да и управления толком не знаю, но в целом прикольно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello, World!!</title>
-      <link>//localhost:1313/posts/hello_world/</link>
+      <link>//localhost:1313///python-rogues_/posts/hello_world/</link>
       <pubDate>Fri, 22 May 2026 12:24:55 +0300</pubDate>
-      <guid>//localhost:1313/posts/hello_world/</guid>
+      <guid>//localhost:1313///python-rogues_/posts/hello_world/</guid>
       <description>&lt;p&gt;&#xD;&#xA;&lt;img src=&#34;asya-hi.gif&#34;  alt=&#34;Привет от Аси Шубиной&#34;  class=&#34;center&#34;  style=&#34;max-width: min(100%, 800px); height: auto;&#34;    /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;Сайт родился, ура-ура. Первый раз работаю с Hugo, но вроде всё очень удобно&lt;/p&gt;&#xA;&lt;p&gt;Серёжа уже почти набросал саму игру, как допишет - буду тестировать&lt;/p&gt;&#xA;&lt;p&gt;Олег пошёл смотреть шаблоны и разбираться, как красоту в MarkDown наводить&lt;/p&gt;&#xA;&lt;p&gt;Процесс идёт полным ходом)&lt;/p&gt;</description>
     </item>
   </channel>

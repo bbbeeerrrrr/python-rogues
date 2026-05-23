@@ -1,5 +1,5 @@
 +++
-title = 'О проекте'
+title = "О проекте"
 showFullContent = true
 +++
 

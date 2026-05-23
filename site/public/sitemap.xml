@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>//localhost:1313///python-rogues_/posts/</loc>
     <lastmod>2026-05-22T21:45:15+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>//localhost:1313///python-rogues_/</loc>
     <lastmod>2026-05-22T21:45:15+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/uraa/</loc>
+    <loc>//localhost:1313///python-rogues_/posts/uraa/</loc>
     <lastmod>2026-05-22T21:45:15+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/first_expirience/</loc>
+    <loc>//localhost:1313///python-rogues_/posts/first_expirience/</loc>
     <lastmod>2026-05-22T15:45:15+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/hello_world/</loc>
+    <loc>//localhost:1313///python-rogues_/posts/hello_world/</loc>
     <lastmod>2026-05-22T12:24:55+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>//localhost:1313///python-rogues_/about/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>//localhost:1313///python-rogues_/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/contributors/</loc>
+    <loc>//localhost:1313///python-rogues_/contributors/</loc>
   </url><url>
-    <loc>//localhost:1313/links/</loc>
+    <loc>//localhost:1313///python-rogues_/links/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>//localhost:1313///python-rogues_/tags/</loc>
   </url><url>
-    <loc>//localhost:1313/links/links/</loc>
+    <loc>//localhost:1313///python-rogues_/links/links/</loc>
   </url><url>
-    <loc>//localhost:1313/about/about/</loc>
+    <loc>//localhost:1313///python-rogues_/about/about/</loc>
   </url><url>
-    <loc>//localhost:1313/contributors/contributors/</loc>
+    <loc>//localhost:1313///python-rogues_/contributors/contributors/</loc>
   </url>
 </urlset>

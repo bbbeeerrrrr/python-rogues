@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contributors on Python-rogues</title>
-    <link>//localhost:1313/contributors/</link>
+    <link>//localhost:1313///python-rogues_/contributors/</link>
     <description>Recent content in Contributors on Python-rogues</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
-    <atom:link href="//localhost:1313/contributors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313///python-rogues_/contributors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Участники</title>
-      <link>//localhost:1313/contributors/contributors/</link>
+      <link>//localhost:1313///python-rogues_/contributors/contributors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/contributors/contributors/</guid>
+      <guid>//localhost:1313///python-rogues_/contributors/contributors/</guid>
       <description>&lt;p&gt;Команда проекта состоит из 3-х человек &amp;ndash; студентов группы 251-329 Московского Политехнического университета&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;&lt;img src=&#34;sergey.jpg&#34;  alt=&#34;Сергей&#34;  class=&#34;center&#34;  style=&#34;max-width: min(100%, 800px); height: auto;&#34;    /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;h2 id=&#34;сергей-воробьёв-berbr&#34;&gt;Сергей Воробьёв (berbr)&lt;/h2&gt;&#xA;&lt;p&gt;Ответсвенный за разработку игры&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;&lt;img src=&#34;makar.jpg&#34;  alt=&#34;Макар&#34;  class=&#34;center&#34;  style=&#34;max-width: min(100%, 800px); height: auto;&#34;    /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;h2 id=&#34;головко-макар-sibin57&#34;&gt;Головко Макар (sibin57)&lt;/h2&gt;&#xA;&lt;p&gt;Ответсвенный за разработку веб-сайта&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;&lt;img src=&#34;oleg.jpg&#34;  alt=&#34;Олег&#34;  class=&#34;center&#34;  style=&#34;max-width: min(100%, 800px); height: auto;&#34;    /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;h2 id=&#34;золотарёв-олег-losky&#34;&gt;Золотарёв Олег (losky)&lt;/h2&gt;&#xA;&lt;p&gt;Ответсвенный за документацию&lt;/p&gt;</description>
     </item>
   </channel>
