@@ -32,4 +32,4 @@ $ hugo server
 	+ [ресурсы (ссылки на источники)](https://bbbeeerrrrr.github.io/python-rogues/links/)
 
 # Использованные источники
-Для создания страницы использовался генератор статичных веб-страниц [hugo](https://gohugo.io) и визуальная тема [terminal](https://github.com/panr/hugo-theme-termina)
+Для создания страницы использовался генератор статичных веб-страниц [hugo](https://gohugo.io) и визуальная тема [terminal](https://github.com/panr/hugo-theme-terminal)
