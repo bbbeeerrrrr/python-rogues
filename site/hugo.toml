@@ -1,6 +1,6 @@
 #Если запускаете локально, закоментируйте python-rouges и раскоментируйте /
 
-baseurl = "/python-rogues_/" #для pages
+baseurl = "/python-rogues/" #для pages
 #baseurl = "/" #для локального пользования
 
 
