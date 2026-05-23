@@ -9,7 +9,7 @@
 ## Запуск страницы
 
 Чтобы просмотреть страницу, есть два варианта:
-* перейдите по ссылке на уже готовую страницу: <https://sibin57.github.io/python-rogues_/>
+* перейдите по ссылке на уже готовую страницу: <https://bbbeeerrrrr.github.io/python-rogues/>
 * самостоятельно поднять сервер hugo (описано далее)
 
 Для запуска веб-сервера необходим Hugo **Extended** v0.90.x.
@@ -25,11 +25,11 @@ $ hugo server
 
 Структура сайта выглядит следующим образом
 
-- [главная страница](https://sibin57.github.io/python-rogues_/)
-	+ ["о проекте"](https://sibin57.github.io/python-rogues_/about/) 
-	+ [участники и их вклад](https://sibin57.github.io/python-rogues_/contributors/)
-	+ [блог о ходе разработки](https://sibin57.github.io/python-rogues_/posts/)
-	+ [ресурсы (ссылки на источники)](https://sibin57.github.io/python-rogues_/links/)
+- [главная страница](https://bbbeeerrrrr.github.io/python-rogues/)
+	+ ["о проекте"](https://bbbeeerrrrr.github.io/python-rogues//about/) 
+	+ [участники и их вклад](https://bbbeeerrrrr.github.io/python-rogues/contributors/)
+	+ [блог о ходе разработки](https://bbbeeerrrrr.github.io/python-rogues//posts/)
+	+ [ресурсы (ссылки на источники)](https://bbbeeerrrrr.github.io/python-rogues/links/)
 
 # Использованные источники
 Для создания страницы использовался генератор статичных веб-страниц [hugo](https://gohugo.io) и визуальная тема [terminal](https://github.com/panr/hugo-theme-termina)
