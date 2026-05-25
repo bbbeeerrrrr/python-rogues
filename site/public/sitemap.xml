@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313///python-rogues_/posts/</loc>
+    <loc>//localhost:1313///python-rogues/posts/</loc>
     <lastmod>2026-05-22T21:45:15+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///python-rogues_/</loc>
+    <loc>//localhost:1313///python-rogues/</loc>
     <lastmod>2026-05-22T21:45:15+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///python-rogues_/posts/uraa/</loc>
+    <loc>//localhost:1313///python-rogues/posts/uraa/</loc>
     <lastmod>2026-05-22T21:45:15+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///python-rogues_/posts/first_expirience/</loc>
+    <loc>//localhost:1313///python-rogues/posts/first_expirience/</loc>
     <lastmod>2026-05-22T15:45:15+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///python-rogues_/posts/hello_world/</loc>
+    <loc>//localhost:1313///python-rogues/posts/hello_world/</loc>
     <lastmod>2026-05-22T12:24:55+03:00</lastmod>
   </url><url>
-    <loc>//localhost:1313///python-rogues_/about/</loc>
+    <loc>//localhost:1313///python-rogues/about/</loc>
   </url><url>
-    <loc>//localhost:1313///python-rogues_/categories/</loc>
+    <loc>//localhost:1313///python-rogues/categories/</loc>
   </url><url>
-    <loc>//localhost:1313///python-rogues_/contributors/</loc>
+    <loc>//localhost:1313///python-rogues/contributors/</loc>
   </url><url>
-    <loc>//localhost:1313///python-rogues_/links/</loc>
+    <loc>//localhost:1313///python-rogues/links/</loc>
   </url><url>
-    <loc>//localhost:1313///python-rogues_/tags/</loc>
+    <loc>//localhost:1313///python-rogues/tags/</loc>
   </url><url>
-    <loc>//localhost:1313///python-rogues_/links/links/</loc>
+    <loc>//localhost:1313///python-rogues/links/links/</loc>
   </url><url>
-    <loc>//localhost:1313///python-rogues_/about/about/</loc>
+    <loc>//localhost:1313///python-rogues/about/about/</loc>
   </url><url>
-    <loc>//localhost:1313///python-rogues_/contributors/contributors/</loc>
+    <loc>//localhost:1313///python-rogues/contributors/contributors/</loc>
   </url>
 </urlset>

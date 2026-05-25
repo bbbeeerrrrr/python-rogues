@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Добро пожаловать on Python-rogues</title>
-    <link>//localhost:1313///python-rogues_/</link>
+    <link>//localhost:1313///python-rogues/</link>
     <description>Recent content in Добро пожаловать on Python-rogues</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
     <lastBuildDate>Fri, 22 May 2026 21:45:15 +0300</lastBuildDate>
-    <atom:link href="//localhost:1313///python-rogues_/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313///python-rogues/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Уррааа</title>
-      <link>//localhost:1313///python-rogues_/posts/uraa/</link>
+      <link>//localhost:1313///python-rogues/posts/uraa/</link>
       <pubDate>Fri, 22 May 2026 21:45:15 +0300</pubDate>
-      <guid>//localhost:1313///python-rogues_/posts/uraa/</guid>
+      <guid>//localhost:1313///python-rogues/posts/uraa/</guid>
       <description>&lt;p&gt;Серёжа всё зачинил, теперь всё делается очень удобно и красиво. Это если верить ему, сам пока не трогал.&lt;/p&gt;&#xA;&lt;p&gt;Сайт допилен, вроде. Больше всего бед почему-то возникло с тем, чтобы вытянуть блог с постами на отдельный адрес. Изначально эта страница была вшита в _index.html, и там происходили приколы с непосредственным наполнением шаблона постами. А это уже задача непосредственно Hugo. А это go. Но всё же блог у нас на /posts, значит всё отлично.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Первый опыт</title>
-      <link>//localhost:1313///python-rogues_/posts/first_expirience/</link>
+      <link>//localhost:1313///python-rogues/posts/first_expirience/</link>
       <pubDate>Fri, 22 May 2026 15:45:15 +0300</pubDate>
-      <guid>//localhost:1313///python-rogues_/posts/first_expirience/</guid>
+      <guid>//localhost:1313///python-rogues/posts/first_expirience/</guid>
       <description>&lt;img src=&#34;adachi_rei_huh.jpg&#34;  alt=&#34;Привет от Аси Шубиной&#34;  class=&#34;center&#34;  style=&#34;max-width: min(100%, 800px); height: auto;&#34;    /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;Серёжа дописал игрушку, нооо&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Чтобы её запустить, надо немного потанцевать с бубном, ибо он всё собирал из-под Visual Studio, а я хотел просто по человечески запустить через коммандную строку питоном&amp;hellip; А там программа банально background-image найти не может, и отказывается запускаться.&lt;/p&gt;&#xA;&lt;p&gt;Пришлось залезть в код и просто заменить файл картинки на пустую пустоту. Но теперь всё работает! Никогда в игры с похожей графикой не играл, да и управления толком не знаю, но в целом прикольно.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hello, World!!</title>
-      <link>//localhost:1313///python-rogues_/posts/hello_world/</link>
+      <link>//localhost:1313///python-rogues/posts/hello_world/</link>
       <pubDate>Fri, 22 May 2026 12:24:55 +0300</pubDate>
-      <guid>//localhost:1313///python-rogues_/posts/hello_world/</guid>
+      <guid>//localhost:1313///python-rogues/posts/hello_world/</guid>
       <description>&lt;p&gt;&#xD;&#xA;&lt;img src=&#34;asya-hi.gif&#34;  alt=&#34;Привет от Аси Шубиной&#34;  class=&#34;center&#34;  style=&#34;max-width: min(100%, 800px); height: auto;&#34;    /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;Сайт родился, ура-ура. Первый раз работаю с Hugo, но вроде всё очень удобно&lt;/p&gt;&#xA;&lt;p&gt;Серёжа уже почти набросал саму игру, как допишет - буду тестировать&lt;/p&gt;&#xA;&lt;p&gt;Олег пошёл смотреть шаблоны и разбираться, как красоту в MarkDown наводить&lt;/p&gt;&#xA;&lt;p&gt;Процесс идёт полным ходом)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Источники</title>
-      <link>//localhost:1313///python-rogues_/links/links/</link>
+      <link>//localhost:1313///python-rogues/links/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313///python-rogues_/links/links/</guid>
+      <guid>//localhost:1313///python-rogues/links/links/</guid>
       <description>&lt;p&gt;При разработке использовались следующие технологии и информационные источники:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Язык программирования &lt;a href=&#34;https://www.python.org/&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Библиотека &lt;a href=&#34;https://github.com/libtcod/python-tcod&#34;&gt;TCOD&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Фреймворк &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Визуальная тема &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;Terminal&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>О проекте</title>
-      <link>//localhost:1313///python-rogues_/about/about/</link>
+      <link>//localhost:1313///python-rogues/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313///python-rogues_/about/about/</guid>
+      <guid>//localhost:1313///python-rogues/about/about/</guid>
       <description>&lt;p&gt;Проект создан в рамках проектной (учебной) практики&lt;/p&gt;&#xA;&lt;p&gt;Цель проекта - разработать компьютерную игру в жанре &lt;a href=&#34;https://ru.wikipedia.org/wiki/Roguelike&#34;&gt;Rouge-like&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Основным вдохновителем является класический рогалик The Chronicles Of Doryen (или TCOD), библиотеки базовых классов которого являются общедоступными.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Участники</title>
-      <link>//localhost:1313///python-rogues_/contributors/contributors/</link>
+      <link>//localhost:1313///python-rogues/contributors/contributors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313///python-rogues_/contributors/contributors/</guid>
+      <guid>//localhost:1313///python-rogues/contributors/contributors/</guid>
       <description>&lt;p&gt;Команда проекта состоит из 3-х человек &amp;ndash; студентов группы 251-329 Московского Политехнического университета&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;&lt;img src=&#34;sergey.jpg&#34;  alt=&#34;Сергей&#34;  class=&#34;center&#34;  style=&#34;max-width: min(100%, 800px); height: auto;&#34;    /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;h2 id=&#34;сергей-воробьёв-berbr&#34;&gt;Сергей Воробьёв (berbr)&lt;/h2&gt;&#xA;&lt;p&gt;Ответсвенный за разработку игры&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;&lt;img src=&#34;makar.jpg&#34;  alt=&#34;Макар&#34;  class=&#34;center&#34;  style=&#34;max-width: min(100%, 800px); height: auto;&#34;    /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;h2 id=&#34;головко-макар-sibin57&#34;&gt;Головко Макар (sibin57)&lt;/h2&gt;&#xA;&lt;p&gt;Ответсвенный за разработку веб-сайта&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xD;&#xA;&lt;img src=&#34;oleg.jpg&#34;  alt=&#34;Олег&#34;  class=&#34;center&#34;  style=&#34;max-width: min(100%, 800px); height: auto;&#34;    /&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;h2 id=&#34;золотарёв-олег-losky&#34;&gt;Золотарёв Олег (losky)&lt;/h2&gt;&#xA;&lt;p&gt;Ответсвенный за документацию&lt;/p&gt;</description>
     </item>
   </channel>
